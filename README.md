@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Maruf</h1>
-<h3 align="center">Data Analyst | SQL • Excel • Power BI • Python</h3>
+<h3 align="center">Data/Business Analyst | SQL • Excel • Power BI • Python</h3>
 
 ---
 
