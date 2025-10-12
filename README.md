@@ -36,28 +36,28 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
 ## 📂 Featured Projects  
 
 ### 🧩 **SQL Projects**
-- 🍽️ [Restaurant Orders SQL Analysis](https://github.com/marufanalysis/restaurant_orders_sql_analysis)  
+- 🍽️ [Restaurant Orders SQL Analysis](https://github.com/marufanalysis/Restaurant-Orders-SQL-Analysis)  
   → Analyzed cuisine popularity, promo code performance, and customer retention trends.  
 
-- 🍕 [Pizza Sales SQL Analysis](https://github.com/marufanalysis/pizza_sales_sql_analysis)  
+- 🍕 [Pizza Sales SQL Analysis](https://github.com/marufanalysis/Pizza-Sales-SQL-Analysis-Project)  
   → Explored revenue trends, top-selling pizzas, and cumulative sales using SQL analytics.
 
 ---
 
 ### 📊 **Power BI Dashboards**
-- 🛒 [E-Commerce Sales Dashboard](https://github.com/marufanalysis/powerbi_ecommerce_dashboard)  
+- 🛒 [Unpacking-the-Data-Professional-Survey-A-Power-BI-Dashboard](https://github.com/marufanalysis/Unpacking-the-Data-Professional-Survey-A-Power-BI-Dashboard)  
   → Interactive Power BI dashboard visualizing sales, revenue, and customer behavior.  
 
-- 🏬 [Retail Performance Report](https://github.com/marufanalysis/powerbi_retail_report)  
+- 🏬 [Retail Performance Report](https://github.com/marufanalysis/Retail-Sales-Performance-Dashboard-Power-BI)  
   → Visual report showing performance by region, category, and growth trends.
 
 ---
 
 ### 📈 **Excel Projects**
-- 💼 [Sales Performance Dashboard](https://github.com/marufanalysis/excel_sales_dashboard)  
+- 💼 [Adidas-US-Sales-Dashboard](https://github.com/marufanalysis/Adidas-US-Sales-Dashboard)  
   → Excel dashboard with pivot tables, KPIs, and monthly analysis.  
 
-- 👥 [Customer Segmentation Workbook](https://github.com/marufanalysis/excel_customer_segmentation)  
+- 👥 [Bike-Buyer-Analysis-Excel-Dashboard](https://github.com/marufanalysis/Bike-Buyer-Analysis-Excel-Dashboard)  
   → Data cleaning, segmentation, and customer cohort analysis for marketing insights.
 
 ---
