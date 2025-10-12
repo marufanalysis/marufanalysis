@@ -74,11 +74,21 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
 
 ---
 
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maruf-blue?logo=linkedin)](https://www.linkedin.com/in/marufanalysis)
-[![Medium](https://img.shields.io/badge/Medium-@marufanalysis-black?logo=medium)](https://medium.com/@marufanalysis)
-[![GitHub](https://img.shields.io/badge/GitHub-marufanalysis-gray?logo=github)](https://github.com/marufanalysis)
+## 🤝 Connect With Me  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="90"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/medium-new.png" alt="Medium" width="90"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/100/000000/github.png" alt="GitHub" width="90"/>
+  </a>
+</p>
 ---
 
 <p align="center">
