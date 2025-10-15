@@ -18,10 +18,10 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
 📫 Connect with me:  
 <p>
   <a href="https://www.linkedin.com/in/marufanalysis" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="30"/>
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://medium.com/@marufanalysis" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/medium-new.png" alt="Medium" width="30"/>
+    <img src="https://img.icons8.com/ios-filled/100/000000/medium-new.png" alt="Medium" width="40"/>
   </a>
 </p>
 
