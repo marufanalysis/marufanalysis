@@ -16,8 +16,16 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
 🚀 Currently learning **Python for data analytics** and enhancing my visualization storytelling.  
 
 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maruf-blue?logo=linkedin&logoSize=40)](https://www.linkedin.com/in/marufanalysis)  
-[![Medium](https://img.shields.io/badge/Medium-@marufanalysis-black?logo=medium&logoSize=40)](https://medium.com/@marufanalysis)
+<p>
+  <a href="https://www.linkedin.com/in/marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/medium-new.png" alt="Medium" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ---
