@@ -91,6 +91,10 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
 ## 🤝 Connect With Me  
 
 <p align="center">
+  <a href="https://marufanalysis.my.canva.site/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/internet--v1.png" alt="Website" width="90"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marufanalysis" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="90"/>
   </a>
@@ -102,7 +106,12 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
   <a href="https://github.com/marufanalysis" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/100/000000/github.png" alt="GitHub" width="90"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/twitterx--v2.png" alt="X (Twitter)" width="90"/>
+  </a>
 </p>
+
 ---
 
 <p align="center">
