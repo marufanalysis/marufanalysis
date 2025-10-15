@@ -23,7 +23,14 @@ I’m a **Data Analyst** who loves finding patterns, solving problems, and creat
   <a href="https://medium.com/@marufanalysis" target="_blank">
     <img src="https://img.icons8.com/ios-filled/100/000000/medium-new.png" alt="Medium" width="40"/>
   </a>
+  <a href="https://marufanalysis.my.canva.site/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/internet--v1.png" alt="Portfolio" width="40"/>
+  </a>
+  <a href="https://x.com/marufanalysis" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/twitterx--v2.png" alt="X (Twitter)" width="40"/>
+  </a>
 </p>
+
 
 
 ---
